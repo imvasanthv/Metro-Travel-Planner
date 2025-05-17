@@ -23,5 +23,8 @@ The travel planner web page provides an interactive map interface that allows us
 - **Leaflet.js** for map rendering
 - **REST APIs** for station data
 
-## 📁 Project Structure
+##  License
+This project is for educational and internship purposes only under the guidance of Chennai Metro Rail Limited.
+
+
 
